@@ -67,4 +67,4 @@ pip install 'qbwc-kit[server]'       # adds the FastAPI adapter
 
 The core has no dependencies outside the standard library, and the service is just `dispatch(soap_body) -> soap_body`, so it drops into Flask, Django or bare WSGI unchanged.
 
-Repo: https://github.com/meister5/qbwc-kit · MIT · on PyPI at v0.1.2.
+Repo: https://github.com/meister5/qbwc-kit · MIT · on PyPI at v0.1.3.
